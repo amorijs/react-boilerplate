@@ -1,0 +1,26 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "rules": {
+    "strict": 0,
+    "linebreak-style": 0
+  },
+  "plugins": [
+    "react",
+    "jsx-a11y",
+    "import"
+  ]
+}
+
+
+// {
+//   "parser": "babel-eslint",
+//   "rules": {
+//     "strict": 0,
+//     "linebreak-style": 0
+//   },
+//   "extends": "airbnb",
+//   "plugins": [
+//     "import"
+//   ]
+// }
