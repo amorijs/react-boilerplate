@@ -15,6 +15,7 @@
     "eslint-plugin-react": "6.9.0"
   },
   "prettier": {
-    "singleQuote": true
+    "singleQuote": true,
+    "printWidth": 100
   }
 }
