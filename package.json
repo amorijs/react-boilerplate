@@ -1,5 +1,5 @@
 {
-  "name": "Projects",
+  "name": "projects",
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
@@ -17,5 +17,19 @@
   "prettier": {
     "singleQuote": true,
     "printWidth": 100
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amorijs/project-directory.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/amorijs/project-directory/issues"
+  },
+  "homepage": "https://github.com/amorijs/project-directory#readme",
+  "description": ""
 }
