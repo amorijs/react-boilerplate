@@ -4,3 +4,4 @@
 !.eslintrc.json
 !package.json
 !yarn.lock
+!.jsbeautifyrc
