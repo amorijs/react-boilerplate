@@ -1,8 +1,9 @@
-*
+/*
 
 !.gitignore
 !.eslintrc.json
 !package.json
+!package-lock.json
 !yarn.lock
 !.jsbeautifyrc
 !snippets
