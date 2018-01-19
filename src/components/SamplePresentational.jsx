@@ -8,6 +8,6 @@ const SamplePresentational = props => (
 SamplePresentational.propTypes = {
   onClick: PropTypes.func,
   count: PropTypes.number
-}
+};
 
 export default SamplePresentational;

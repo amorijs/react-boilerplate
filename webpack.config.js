@@ -19,7 +19,7 @@ module.exports = {
       }
     ]
   },
-  
+
   // Dev tools are provided by webpack
   // Source maps help map errors to original react code
   devtool: 'cheap-module-eval-source-map',
