@@ -2,10 +2,7 @@ import React, { Component } from 'react';
 import SamplePresentational from '../components/SamplePresentational.jsx';
 
 class SampleContainer extends Component {
-  constructor(props) {
-    super(props);
-    this.state = { count: 0 };
-  }
+  state = { count: 0 };
 
   incrementCount = () => this.setState({ count: this.state.count + 1 });
 
