@@ -1,0 +1,19 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple and modern React boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amorijs/react-boilerplate.git"
+  },
+  "author": "amorijs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amorijs/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/amorijs/react-boilerplate#readme"
+}
