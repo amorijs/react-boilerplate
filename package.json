@@ -19,5 +19,6 @@
     "url": "https://github.com/amorijs/project-directory/issues"
   },
   "homepage": "https://github.com/amorijs/project-directory#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {}
 }
